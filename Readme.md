@@ -6,3 +6,8 @@
 -->
 
 ## Complete the "main.py"
+Explanation
+
+Code
+
+Output
